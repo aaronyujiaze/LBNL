@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javalib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Documents/Spring2017/cs61b/bnr/javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Documents/Spring2017/cs61b/bnr/javalib" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Documents/Spring2017/cs61b/bnr/javalib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Documents/Spring2017/cs61b/bnr/javalib" recursive="false" type="SOURCES" />
+  </library>
+</component>

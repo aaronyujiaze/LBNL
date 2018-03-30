@@ -1,0 +1,5 @@
+# filename size
+ tom.dat 1024
+ jerry.dat 16553
+tweety.out 12345
+ elmerfudd.txt 987654321

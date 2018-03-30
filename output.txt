@@ -1,0 +1,4 @@
+elmerfudd.txt NULL
+tom.dat node1
+tweety.out node1
+jerry.dat node2
